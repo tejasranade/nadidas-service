@@ -1,0 +1,19 @@
+{
+  "name": "sqlite",
+  "version": "1.0.8",
+  "description": "Personalization service for Nadidas products",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tejas",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.1",
+    "express": "^4.15.3",
+    "kinvey-flex-sdk": "^2.0.4",
+    "kinvey-node-sdk": "^3.5.0",
+    "node-stopwatch": "0.0.1",
+    "sqlite3": "^3.1.8"
+  }
+}
